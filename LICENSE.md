@@ -1,3 +1,8 @@
+## License
+
+**This repository is not open source.** It is released under a custom “All Rights Reserved” license.  
+If you are interested in collaboration or citation, please contact the author directly.
+# ForensicsModel
 # Proprietary License – All Rights Reserved
 
 **Author:** Leticia Quintana  
@@ -57,3 +62,20 @@ To request permission or propose collaboration:
 [Insert contact email or preferred method]
 
 © 2025 Leticia Quintana. All rights reserved.
+
+ForensicsModel/
+│
+├── LICENSE.md
+├── README.md        
+├── /docs/  
+│   └── LICENSE_FULL.md
+├── /src/
+└── /hash/
+    └── sha256.txt
+
+
+## License
+
+This project is proprietary. All rights are reserved by Leticia Quintana.  
+See (./LICENSE.md) for full legal terms.
+0750950bff813462d2b53e9082d6da72a12ebaaed2eee05ce88f9de1f2b18692
