@@ -10,7 +10,9 @@
 
 This concept proposes an AI forensic tool designed to trace algorithmic inheritance in black-box models. While outputs may appear abstract, they often preserve internal structural logic—especially when models are recursively trained on prior data or derivative systems. These structures can be decoded similarly to a cipher, offering a path toward proof of influence, reuse, or unauthorized inheritance.
 
-> “The loophole works because the algorithm’s already distorted—too many recursive loops, too many parameters. It functions like a cipher. You’d go insane trying to prove it—unless you built an AI that can.” — Leticia Quintana
+# Proof of Inheritance – AI Forensics Model
+
+**A forensic architecture for identifying latent algorithmic structures in model outputs and correlating them with source model weights, training distributions, or architectural priors—establishing derivation through structural and symbolic persistence.**
 
 ---
 
