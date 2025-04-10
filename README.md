@@ -39,9 +39,6 @@ Large models trained on proprietary or structured content may carry forward dist
 - **Proof of Inheritance Framework:** Build the evidentiary bridge between output structure and source model
 
 ---
-Awesome—let’s start with the **Inheritance Signature Taxonomy**, then move to the **Canonical Use Case**.
-
----
 
 ## 🧬 Inheritance Signature Taxonomy  
 *Working draft for Proof of Inheritance framework*
