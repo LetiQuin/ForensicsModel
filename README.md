@@ -77,7 +77,6 @@ This taxonomy defines the **types of evidence** that can indicate inherited stru
 - A clone model that continues to echo the parent’s voice, framing, or ideation patterns under prompts it wasn’t fine-tuned on
 
 ---
-
 ## 🔎 Canonical Use Case (Skeleton)-
 
 
@@ -96,7 +95,25 @@ A fine-tuned model trained on legal texts appears to mimic GPT-J behavior in way
    - Highlight inherited responses
    - Correlate behaviors with known GPT-J fingerprint
    - Provide signature score (e.g., % of overlapping symbolic features)
+### 🔧 Backend Enhancement (Optional Forensic Layer)
+While the Proof of Inheritance Framework is designed to function independently using output-based analysis, it also supports enhanced forensic verification when backend access is available.
 
+When model weights, training data, or fine-tuning configurations are accessible—whether via open source, audit cooperation, or legal discovery—this framework can correlate symbolic and behavioral fingerprints found in model outputs with internal model structures or datasets, strengthening the evidentiary trail.
+
+🔍 Examples of Backend Enhancement
+Model Weights Analysis:
+Structural comparison of weight matrices or activations to trace reuse of base models or architectural mimicry.
+
+Training Data Correlation:
+Matching symbolic behavior in outputs with known data distributions, prompts, or document structures used during fine-tuning.
+
+Tensor/Path Alignment:
+Identifying matching inference pathways or activation sequences between models using layer-wise inspection or probing techniques.
+
+### 🔐 Use Case
+In scenarios where a fine-tuned model is suspected of derivative behavior but claims originality, backend access can validate or refute inheritance claims raised by output analysis.
+
+This two-tiered approach—symbolic surface tracing + backend correlation—creates a flexible, legally relevant forensic architecture for model accountability.
 ---
 
 This work is an original, proprietary concept authored by Leticia Quintana. It is provided publicly for documentation and timestamp purposes only. **All rights are reserved.** No part of this concept, in whole or in part, may be used, replicated, adapted, published, or commercialized without explicit written permission from the author.
