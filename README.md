@@ -1,77 +1,49 @@
-# ForensicsModel
-# Proprietary License – All Rights Reserved
+# Proof of Inheritance: AI Forensic Tracing of Algorithmic Structure
 
 **Author:** Leticia Quintana  
 **Created:** April 2025  
-**Applies to:** This repository and all associated content, ideas, language, and structural frameworks
+**Status:** Proprietary – All Rights Reserved
 
 ---
 
-## Summary
+## Overview
 
-This project, including but not limited to its ideas, conceptual framework, language, terminology, and intended use cases, is **intellectual property** of Leticia Quintana. It is not open source. **All rights are reserved.**
+This concept proposes an AI forensic tool designed to trace algorithmic inheritance in black-box models. While outputs may appear abstract, they often preserve internal structural logic—especially when models are recursively trained on prior data or derivative systems. These structures can be decoded similarly to a cipher, offering a path toward proof of influence, reuse, or unauthorized inheritance.
 
----
-
-## What Is Covered
-
-This license protects the following:
-
-- Any use, partial use, or adaptation of the concept titled “Proof of Inheritance”  
-- The underlying idea of using AI to trace algorithmic or symbolic structures in other AI systems  
-- Any methodology involving latent pattern recognition to detect derivation or inheritance across black-box models  
-- Any recursive forensic framework designed to prove model lineage, regardless of how it's reworded  
-- Any application of the idea for academic, commercial, private research, or internal tooling purposes  
-- Any outputs, summaries, or generated variants derived from this concept using AI tools or otherwise
+> “The loophole works because the algorithm’s already distorted—too many recursive loops, too many parameters. It functions like a cipher. You’d go insane trying to prove it—unless you built an AI that can.” — Leticia Quintana
 
 ---
 
-## Prohibited Uses
+## Concept
 
-The following are strictly prohibited without **written permission** from the author:
-
-- Any derivative work, modified version, or related project based on the ideas described in this repository  
-- Using the concept or similar framework in AI development, model auditing, or legal tech  
-- Including the idea in academic papers, product designs, pitches, or research (including speculative or internal work)  
-- Training, fine-tuning, or prompting AI models to replicate or generalize from this idea  
-- Any implied, covert, abstracted, or rebranded usage meant to obscure origin or evade attribution
+Large models trained on proprietary or structured content may carry forward distinct symbolic or logical patterns—latent “fingerprints” embedded in outputs. This project outlines the foundational logic for using AI itself to decode those patterns and trace them back to model origins, allowing for forensic accountability in AI development.
 
 ---
 
-## Required Attribution
+## Applications
 
-If explicit permission is granted for use, the following attribution format is required:
-
-> “This work is based on the proprietary ‘Proof of Inheritance’ concept created by Leticia Quintana (2025). Used with permission.”
-
----
-
-## Legal Position
-
-This repository and its contents are timestamped via GitHub for purposes of authorship verification. Unauthorized use may be considered theft of intellectual property and subject to legal action. **Do not test the gray areas.**
+- Attribution tracing and AI copyright forensics  
+- Detection of unauthorized model derivation or architectural mimicry  
+- Legal and academic documentation of algorithmic inheritance  
+- Model collapse tracking through recursive signal degradation
 
 ---
 
-## Contact
+## Core Ideas
 
-To request permission or propose collaboration:  
-[Insert contact email or preferred method]
+- **Recursive Fingerprint Analysis:** Detect preserved logic loops and output patterns  
+- **Latent Symbol Tracing:** Map persistent symbolic and structural echoes in model outputs  
+- **Backend Pattern Correlation:** Correlate forensic signals with training sets or known model architectures (where accessible)  
+- **Proof of Inheritance Framework:** Build the evidentiary bridge between output structure and source model
+
+---
+
+## Legal Notice
+
+This work is an original, proprietary concept authored by Leticia Quintana. It is provided publicly for documentation and timestamp purposes only. **All rights are reserved.** No part of this concept, in whole or in part, may be used, replicated, adapted, published, or commercialized without explicit written permission from the author.
 
 © 2025 Leticia Quintana. All rights reserved.
 
-ForensicsModel/
-│
-├── LICENSE.md
-├── README.md        
-├── /docs/  
-│   └── LICENSE_FULL.md
-├── /src/
-└── /hash/
-    └── sha256.txt
+---
 
 
-## License
-
-This project is proprietary. All rights are reserved by Leticia Quintana.  
-See [LICENSE.md](./LICENSE.md) for full legal terms.
-0750950bff813462d2b53e9082d6da72a12ebaaed2eee05ce88f9de1f2b18692
