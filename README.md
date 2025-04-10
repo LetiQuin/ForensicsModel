@@ -116,10 +116,29 @@ In scenarios where a fine-tuned model is suspected of derivative behavior but cl
 This two-tiered approach—symbolic surface tracing + backend correlation—creates a flexible, legally relevant forensic architecture for model accountability.
 ---
 
-This work is an original, proprietary concept authored by Leticia Quintana. It is provided publicly for documentation and timestamp purposes only. **All rights are reserved.** No part of this concept, in whole or in part, may be used, replicated, adapted, published, or commercialized without explicit written permission from the author.
+## Copyright and Structural Authorship Declaration
 
-© 2025 Leticia Quintana. All rights reserved.
+This repository contains an original, proprietary system authored by Leticia Quintana in 2025, titled:
+
+### ***Proof of Inheritance: AI Forensic Tracing of Algorithmic Structure***
+
+This work is published solely for documentation, authorship, and timestamp verification. **All rights are reserved.** No part of this concept, in whole or in part, may be used, copied, adapted, translated, published, restructured, reverse-engineered, derived from, trained into machine learning models, or incorporated into commercial or academic systems without **explicit written permission** from the author.
+
+### This protected work includes, but is not limited to:
+- The **Inheritance Signature Taxonomy**
+- All symbolic structures, recursive logic flows, and systemic tracing methods
+- Original use cases, structural architectures, and AI forensic workflows
+- Authored phrasing, terminology, and configuration of components
+- Any latent or non-literal expression of these elements, whether reworded, abstracted, or adapted
+
+This system is expressed as a combination of written structure, symbolic logic, and operational architecture. These are not merely descriptive—they constitute an **original system of expression**, and are therefore protected under **U.S. and international copyright law**, including the protection of **non-literal expression** and **system-level authorship**.
+
+Attempts to obscure, abstract, or reframe the system in derivative language or structure are considered violations of this declaration.
+
+This work is timestamped and cryptographically anchored with SHA-256:
+`0750950bff813462d2b53e9082d6da72a12ebaaed2eee05ce88f9de1f2b18692`
 
 ---
 
-
+**© 2025 Leticia Quintana. All rights reserved.**  
+Unauthorized use, derivation, or citation in any form is strictly prohibited.
