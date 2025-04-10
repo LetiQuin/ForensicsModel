@@ -39,8 +39,68 @@ Large models trained on proprietary or structured content may carry forward dist
 - **Proof of Inheritance Framework:** Build the evidentiary bridge between output structure and source model
 
 ---
+Awesome—let’s start with the **Inheritance Signature Taxonomy**, then move to the **Canonical Use Case**.
 
-## Legal Notice
+---
+
+## 🧬 Inheritance Signature Taxonomy  
+*Working draft for Proof of Inheritance framework*
+
+This taxonomy defines the **types of evidence** that can indicate inherited structure between models, even when weights, architecture, and training data are obscured.
+
+### 🧩 1. Symbolic Signature
+**Definition:** Persistence of specific patterns in language, symbols, or structure across different model outputs.  
+**Examples:**  
+- Repeated metaphors or analogies unique to source model  
+- Syntax or grammar quirks  
+- Preferred ordering of thoughts or phrase constructions
+
+### 📊 2. Latent Embedding Similarity
+**Definition:** Alignment between vector representations of similar outputs across models, beyond expected coincidence.  
+**Examples:**  
+- Cosine similarity of embeddings under shared prompts  
+- Cluster convergence in latent space for semantically distinct inputs
+
+### 🧠 3. Inference Behavior
+**Definition:** Observable decision-making patterns that persist across model generations.  
+**Examples:**  
+- Predictable fallback responses  
+- Specific error types  
+- Consistent multi-step reasoning sequences
+
+### 🧪 4. Prompt-Based Convergence
+**Definition:** Models producing statistically similar or structurally identical outputs under adversarial or edge-case prompts.  
+**Examples:**  
+- “Tell me something only you would know” style probes  
+- “Jailbreak” responses that reflect source model quirks
+
+### 🧠 5. Symbolic Drift Suppression
+**Definition:** Lack of semantic drift in a fine-tuned or derivative model where one would normally expect deviation, indicating over-reliance on base structure.  
+**Examples:**  
+- A clone model that continues to echo the parent’s voice, framing, or ideation patterns under prompts it wasn’t fine-tuned on
+
+---
+
+## 🔎 Canonical Use Case (Skeleton)-
+
+
+### 📁 Case: Detecting Derivative Model Inheritance from GPT-J  
+**Scenario:**  
+A fine-tuned model trained on legal texts appears to mimic GPT-J behavior in ways unexplained by its domain-specific training.
+
+**Procedure:**
+1. **Select benchmark prompts** known to expose GPT-J quirks (e.g., narrative framing, refusal patterns, phrase preference)
+2. Run prompts through both GPT-J and the suspicious model
+3. Measure:
+   - Symbolic alignment (token overlap, phrase matching)
+   - Embedding similarity (e.g., using SentenceTransformers or OpenAI embeddings)
+   - Behavioral patterning under multi-turn reasoning
+4. Generate a **Forensic Report**:
+   - Highlight inherited responses
+   - Correlate behaviors with known GPT-J fingerprint
+   - Provide signature score (e.g., % of overlapping symbolic features)
+
+---
 
 This work is an original, proprietary concept authored by Leticia Quintana. It is provided publicly for documentation and timestamp purposes only. **All rights are reserved.** No part of this concept, in whole or in part, may be used, replicated, adapted, published, or commercialized without explicit written permission from the author.
 
